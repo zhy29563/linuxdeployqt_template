@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=app
+Exec=app
+Icon=app
+Comment= a tool for development
+Terminal=false
+Categories=Development;
